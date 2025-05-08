@@ -1,7 +1,17 @@
-**Website**: [Trần Thế Hảo - Portfolio](https://sites.google.com/view/tranthehaoportfolio)
+
 
 <h1 align="center">Hi 👋, I'm Tran The Hao</h1>
 <h3 align="center">A passionate developer</h3>
+
+**Website**: [Trần Thế Hảo - Portfolio](https://sites.google.com/view/tranthehaoportfolio)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=050903&theme=radical)
+
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=050903&theme=default)
+
+![Profile Views](https://komarev.com/ghpvc/?username=050903&color=blue)
 
 - 🔭 I’m currently working in **Ho Chi Minh City**
 
