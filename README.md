@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **050903tth@gmail.com**
 
-- 📄 More ? [Take a chat](Take a chat)
+- 📄 More ? (take a chat)
 
 - ⚡ Fun fact **I think verymuch :)**
 
