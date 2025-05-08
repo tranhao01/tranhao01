@@ -38,6 +38,83 @@
 
 ![Python](https://img.shields.io/badge/Python-2.2%25-yellow?logo=python) ![HTML](https://img.shields.io/badge/HTML-63.8%25-orange?logo=html5) ![SCSS](https://img.shields.io/badge/SCSS-19.9%25-pink?logo=sass) ![JavaScript](https://img.shields.io/badge/JavaScript-9.6%25-yellow?logo=javascript) ![CSS](https://img.shields.io/badge/CSS-4.5%25-blue?logo=css3) ![Django](https://img.shields.io/badge/Framework-Django-green?logo=django) ![Git](https://img.shields.io/badge/VersionControl-Git-red?logo=git) ![Visual Studio Code](https://img.shields.io/badge/Editor-VS_Code-blue?logo=visualstudiocode) ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey?logo=sqlite) ![OpenCV](https://img.shields.io/badge/OpenCV-Used-informational?logo=opencv) ![University](https://img.shields.io/badge/ĐH-GTVT%20TP.HCM-green) ![Major](https://img.shields.io/badge/Ngành-CNTT-blue) ![Student Worker](https://img.shields.io/badge/WorkStudy-Vừa%20học%20vừa%20làm-important) ![GPA](https://img.shields.io/badge/Học_lực-Tốt-lightgrey) ![Project](https://img.shields.io/badge/Dự_án-Phát_hiện_buồn_ngủ_(EAR/Yawn)-blue?logo=eyeem) ![Django Admin](https://img.shields.io/badge/Admin-Customized-orange?logo=django) ![Jewelry Store](https://img.shields.io/badge/Dự_án-Cửa_hàng_trang_sức-red?logo=ruby) ![Networking](https://img.shields.io/badge/Dự_án-Thiết_kế_mạng_cơ_sở-university?logo=cisco) ![REST API](https://img.shields.io/badge/API-REST_framework-blue?logo=fastapi) ![jQuery](https://img.shields.io/badge/JavaScript-jQuery-green?logo=jquery) ![TailwindCSS](https://img.shields.io/badge/UI-TailwindCSS-0ea5e9?logo=tailwindcss) ![Shadcn/UI](https://img.shields.io/badge/Components-shadcn/ui-informational) ![Lucide-react](https://img.shields.io/badge/Icons-lucide--react-lightblue) ![Recharts](https://img.shields.io/badge/Charts-Recharts-orange)  ![Security](https://img.shields.io/badge/Quan_tâm-Bảo_mật-anonymous?logo=protonvpn)  ![Financial Freedom](https://img.shields.io/badge/Mục_tiêu-Tự_do_tài_chính-yellowgreen) ![Kỷ luật tài chính](https://img.shields.io/badge/Tư_duy-Kỷ_luật_tài_chính-important) ![Laws of Reality](https://img.shields.io/badge/Nghiên_cứu-Quy_luật_hiện_thực-lightgrey) ![Universe](https://img.shields.io/badge/Vũ_trụ-How_it_works-deepskyblue?logo=nasa) ![Stargate Project](https://img.shields.io/badge/Nghiên_cứu-Stargate_Project-purple?logo=nasa) ![Remote Viewing](https://img.shields.io/badge/Ngoại_cảm-Remote_Viewing-important) ![Tri thức tự học](https://img.shields.io/badge/Hành_trình-Tự_học_-_Chiêm_niệm-orange?logo=readme) ![GitHub](https://img.shields.io/badge/GitHub-050903-black?logo=github) ![Birthday](https://img.shields.io/badge/Sinh_nhật-09/05/2003-red?logo=cakephp) ![Số học phương Tây](https://img.shields.io/badge/Numerology-Hệ_Pythagoras-blue) ![BIDV](https://img.shields.io/badge/Ngân_hàng-BIDV-informational?logo=mastercard) ![Sinh viên](https://img.shields.io/badge/Trạng_thái-Sinh_viên-active)  
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Trần_Thế_Hảo-blue?style=for-the-badge&logo=about-dot-me)](#)
+[![Email](https://img.shields.io/badge/Email-050903tth@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:050903tth@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trần_Thế_Hảo-blue?style=for-the-badge&logo=linkedin)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Trần_Thế_Hảo-blue?style=for-the-badge&logo=github)](https://github.com/050903)
+[![Phone](https://img.shields.io/badge/Phone-0358806087-blue?style=for-the-badge&logo=callofduty)](#)
+[![Location](https://img.shields.io/badge/Location-Hóc_Môn,_HCM-blue?style=for-the-badge&logo=googlemaps)](#)
+
+## 👨‍🎓 About Me
+A passionate Information Technology student with strong interest in tech, content creation & social media. Skilled in video/photo editing, livestream sales, and customer engagement.
+
+---
+
+## 🧠 Skills
+[![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=flat-square&logo=html5)](#)
+[![SCSS](https://img.shields.io/badge/SCSS-Intermediate-pink?style=flat-square&logo=sass)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow?style=flat-square&logo=javascript)](#)
+[![CSS](https://img.shields.io/badge/CSS-Intermediate-blue?style=flat-square&logo=css3)](#)
+[![Python](https://img.shields.io/badge/Python-Basic-blue?style=flat-square&logo=python)](#)
+[![CapCut](https://img.shields.io/badge/CapCut-Editing-lightgrey?style=flat-square&logo=capcut)](#)
+[![Canva](https://img.shields.io/badge/Canva-Design-blue?style=flat-square&logo=canva)](#)
+[![Picsart](https://img.shields.io/badge/Picsart-Creative-magenta?style=flat-square&logo=picsart)](#)
+[![MS Word](https://img.shields.io/badge/Word-Office-blue?style=flat-square&logo=microsoft-word)](#)
+[![MS Excel](https://img.shields.io/badge/Excel-Office-green?style=flat-square&logo=microsoft-excel)](#)
+[![MS PowerPoint](https://img.shields.io/badge/PowerPoint-Office-red?style=flat-square&logo=microsoft-powerpoint)](#)
+[![English](https://img.shields.io/badge/English-Intermediate-yellow?style=flat-square&logo=polywork)](#)
+
+---
+
+## 📚 Education
+🎓 **University of Transport, HCMC** (2023 - Present)  
+Major: Information Technology
+
+### Key Courses:
+- System Analysis & Design  
+- Algorithm Design & Analysis  
+- Computer Networks  
+- Computer Architecture  
+- Data Structures & Algorithms  
+- Discrete Structures  
+- Object-Oriented Programming  
+- Databases  
+- Calculus 1  
+- Programming Techniques  
+- Introduction to IT  
+- Basic Informatics  
+
+---
+
+## 💼 Experience
+
+🧋 **Service Staff – Milk Tea & Karaoke (2022)**  
+- Welcomed customers, served tables, maintained environment.
+
+📱 **Social Media Collaborator – Content for Idols & Brands (2023)**  
+- Filmed & edited videos, supported livestream sales.  
+- TikTok: *Ông Đồ Chữ Ký Phong Thuỷ*
+
+🎥 **TikTok Reup: Cars Young | YouTube: Unicorn Brand (2024 - 2025)**  
+- Managed and re-edited videos for social engagement.
+
+---
+
+## 🧩 Activities
+- Edited media for class events  
+- Built and managed class Fanpage & TikTok  
+- Facebook: *A2 Milestones* | TikTok: *@a2_milestones*
+
+---
+
+## 🎯 Interests
+[![Social Media](https://img.shields.io/badge/Social_Media-Marketing-lightgrey?style=flat-square&logo=tiktok)](#)
+[![Drawing](https://img.shields.io/badge/Creative_Design-Hobby-orange?style=flat-square&logo=behance)](#)
+[![Reading](https://img.shields.io/badge/Reading_Books-Podcasts-yellow?style=flat-square&logo=audible)](#)
+[![AI Tools](https://img.shields.io/badge/AI_Tools-ChatGPT_Copilot_Gemini-brightgreen?style=flat-square&logo=openai)](#)
+
+
+
 ![Vừa học vừa làm](https://img.shields.io/badge/WorkStudy-Vừa%20học%20vừa%20làm-important)
 ![Drowsiness Detection](https://img.shields.io/badge/Dự_án-Phát_hiện_buồn_ngủ-blue?logo=eyeem)
 ![Ethical Hacking](https://img.shields.io/badge/CEH-Chứng_chỉ_Ethical_Hacking-red?logo=hackaday)
