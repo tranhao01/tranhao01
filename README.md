@@ -1,117 +1,28 @@
-# 🚀 **Trần Thế Hảo - Information Technology Student**
-**Date of Birth**: 05/09/2003  
-**Address**: Xuan Thoi Thuong, Hoc Mon, Ho Chi Minh City  
-**Phone**: 0358806087  
-**Email**: [050903tth@gmail.com](mailto:050903tth@gmail.com)  
-**Zalo**: [0358806087](https://zalo.me/0358806087)  
-**LinkedIn**: [Trần Thế Hảo](https://www.linkedin.com/in/trần-thế-hảo)  
-**GitHub**: [Trần Thế Hảo](https://github.com/050903)
+<h1 align="center">Hi 👋, I'm Tran The Hao</h1>
+<h3 align="center">A passionate developer</h3>
 
----
+- 🔭 I’m currently working in **Ho Chi Minh City**
 
-## 📊 **Portfolio Overview**
+- 🌱 I’m currently learning **Information Technology at University Of Transport Ho Chi Minh City(UTH)**
 
-### **About Me**
-A passionate Information Technology student with a strong interest in technology, digital content creation, and social media management. Skilled in video/photo editing, livestream sales, and customer engagement. Always eager to learn and connect.
+- 👯 I’m looking to collaborate **to work in company or remote job**
 
----
+- 👨‍💻 All of my projects are available at [github.com/050903](github.com/050903)
 
-## 🛠 **Skills & Expertise**
+- 📝 I regularly read write articles on [linkedin.com/in/hảo-trần-thế-507026290](linkedin.com/in/hảo-trần-thế-507026290)
 
-| **Web Development**            | **Video/Image Editing**     | **Social Media Collaboration** | **Soft Skills**           | **Languages**           |
-|---------------------------------|-----------------------------|--------------------------------|---------------------------|-------------------------|
-| HTML, SCSS, JavaScript, CSS, Python | CapCut, Canva, Picsart      | Facebook, TikTok               | Creativity, Flexibility, Strong Communication | English (Intermediate) | Video/Photo Editing         | Livestream Sales               | Problem-Solving           | Vietnamese (Fluent)     |
+- 📫 How to reach me **050903tth@gmail.com**
 
----
+- 📄 More ? [Take a chat](Take a chat)
 
-## 🏆 **Experience**
+- ⚡ Fun fact **I think verymuch :)**
 
-### 2022: **Service Staff** - Milk Tea Shop & Karaoke
-- **Responsibilities**: Welcomed customers, served tables, maintained store cleanliness for the best customer experience.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hảo trần thế" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hảo trần thế" height="30" width="40" /></a>
+<a href="https://fb.com/trần thế hảo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trần thế hảo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hảo trần thế" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hảo trần thế" height="30" width="40" /></a>
+</p>
 
-### 2023: **Social Media Collaborator** - Content Creation Support for Idols & Brands
-- **Role**: Created content, filmed, and edited videos for social media platforms.
-- **TikTok Channel**: Ông Đồ Chữ Ký Phong Thuỷ
-
-### 2024-2025: **TikTok Reup & YouTube**  
-- **TikTok**: Cars Young  
-- **YouTube**: Unicorn Brand  
-
----
-
-## 🎓 **Education**
-
-**University of Transport Ho Chi Minh City**  
-**Major**: Information Technology  
-**Courses**:
-- System Analysis & Design  
-- Algorithm Design & Analysis  
-- Computer Networks  
-- Data Structures & Algorithms  
-- Discrete Structures  
-- Object-Oriented Programming  
-- Databases  
-- Programming Techniques  
-- Introduction to IT  
-
----
-
-## 🔨 **Projects**
-
-### **AIFaceDetectionProject: Real-Time Drowsiness Detection**
-
-- **Description**: A real-time drowsiness detection system that uses OpenCV and dlib to track the face and detect signs of fatigue (eye closure and yawning).
-  
-  **Tools Used**:
-  - **Libraries**: OpenCV, dlib
-  - **Technologies**: Python, Facial Landmark Detection
-  - **Metrics**: EAR (Eye Aspect Ratio), MR (Mouth Ratio)
-  - **Alerts**: Visual on-screen alerts, sound alarm option
-  
-  **Key Features**:
-  - Real-time face and facial landmark tracking.
-  - EAR-based detection for eye closure.
-  - Yawn detection via mouth aspect ratio.
-  - Optional sound alarm.
-  - On-screen overlays with detection status.
-
----
-
-## 🗣 **Interests**
-
-- Social Media & Digital Marketing
-- Music, Movies, Podcasts
-- Drawing & Content Creation
-- AI & Productivity Tools (ChatGPT, Copilot, Gemini)
-- Exploring New Ideas
-- Reading Books, News, and Magazines
-
----
-
-## 🎥 **Activities**
-
-### 2022-2023: **Class Journals & Social Media Management**
-- **Role**: Edited videos and photos for school events, built and managed a class Facebook fan page and TikTok to preserve memories and connect classmates.
-  - **Facebook Fanpage**: [A2 Milestones](https://www.facebook.com/a2milestones)
-  - **TikTok**: [@a2_milestones](https://www.tiktok.com/@a2_milestones)
-
----
-
-## 🧑‍💻 **Analytics & GitHub Stats**
-
-- **Projects**:  
-  - [AIFaceDetectionProject](https://github.com/050903/AIFaceDetectionProject)
-  - [Other Projects on GitHub](https://github.com/050903)
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=compact&theme=radical)
-
----
-
-## 📚 **Contact & More**
-
-- 📧 **Email**: [050903tth@gmail.com](mailto:050903tth@gmail.com)
-- 📱 **Zalo**: [0358806087](https://zalo.me/0358806087)
-- 💼 **LinkedIn**: [Trần Thế Hảo](https://www.linkedin.com/in/trần-thế-hảo)
-- 🖥 **GitHub**: [Trần Thế Hảo](https://github.com/050903)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
