@@ -14,7 +14,6 @@
 - 📫 How to reach me **050903tth@gmail.com**
 
 - 📄 More ? Let chat together
-- 
 
 - ⚡ Fun fact **I think verymuch :)**
 
