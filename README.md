@@ -20,8 +20,7 @@ A passionate Information Technology student with a strong interest in technology
 
 | **Web Development**            | **Video/Image Editing**     | **Social Media Collaboration** | **Soft Skills**           | **Languages**           |
 |---------------------------------|-----------------------------|--------------------------------|---------------------------|-------------------------|
-| HTML, SCSS, JavaScript, CSS, Python | CapCut, Canva, Picsart      | Facebook, TikTok               | Creativity, Flexibility, Strong Communication | English (Intermediate) |
-| System Analysis & Design        | Video/Photo Editing         | Livestream Sales               | Problem-Solving           | Vietnamese (Fluent)     |
+| HTML, SCSS, JavaScript, CSS, Python | CapCut, Canva, Picsart      | Facebook, TikTok               | Creativity, Flexibility, Strong Communication | English (Intermediate) | Video/Photo Editing         | Livestream Sales               | Problem-Solving           | Vietnamese (Fluent)     |
 
 ---
 
