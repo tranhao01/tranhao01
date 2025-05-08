@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=compact&theme=radical)
 
-![050903's GitHub stats](https://github-readme-stats.vercel.app/api?username=050903&hide=contribs,prs&show_icons=true&theme=tokyonight)
+![050903's GitHub stats](https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical)
 
 
 <h3 align="left">Languages and Tools:</h3>
