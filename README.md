@@ -24,7 +24,7 @@
 <a href="https://www.youtube.com/c/hảo trần thế" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hảo trần thế" height="30" width="40" /></a>
 </p>
 
-![050903's GitHub stats](https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=your-repo-name)](https://github.com/050903/your-repo-name)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=compact&theme=radical)
