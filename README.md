@@ -1,4 +1,4 @@
-# <div align="center">👋 Trần Thế Hảo</div>
+# <div align="center">👋 Tran The Hao</div>
 <div align="center">Information Technology Student & Developer</div>
 
 ## 📊 Stats
