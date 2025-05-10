@@ -1,3 +1,8 @@
+
+![GitHub contributors](https://img.shields.io/github/contributors/username/repo)
+![GitHub issues](https://img.shields.io/github/issues/username/repo)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/username/repo)
+
 <h1 align="center">👋 Hi, I'm Tran The Hao</h1>
 
 <p align="center">
