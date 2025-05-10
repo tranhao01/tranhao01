@@ -1,6 +1,6 @@
-# <div align="center">👋 Tran The Hao</div>![Profile Views]
+# <div align="center">👋 Tran The Hao</div>
 
-(https://komarev.com/ghpvc/?username=050903&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=050903&color=blue)
 
 <div align="center">Information Technology Student & Developer</div>
 
