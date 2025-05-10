@@ -12,7 +12,6 @@
 - 📍 Based in Hóc Môn, HCM City
 - 🔍 Looking for company positions or remote work opportunities
 - 📧 Contact: [050903tth@gmail.com](mailto:050903tth@gmail.com)
-- 📱 Phone: 0358806087
 - 🎂 Born: 09/05/2003
 
 ## 🛠️ Tech Stack
