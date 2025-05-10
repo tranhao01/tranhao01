@@ -1,11 +1,11 @@
-# <div align="center">👋 Tran The Hao</div>
+# <div align="center">👋 Tran The Hao</div>![Profile Views](https://komarev.com/ghpvc/?username=050903&color=blue)
+
 <div align="center">Information Technology Student & Developer</div>
 
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=050903&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=050903&color=blue)
 
 ## 🧑‍💻 About Me
 - 🎓 Studying Information Technology at University of Transport Ho Chi Minh City
