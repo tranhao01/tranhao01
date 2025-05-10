@@ -1,10 +1,21 @@
 # <div align="center">👋 Tran The Hao</div>
 <div align="center">Information Technology Student & Developer</div>
 
-## 📊 ProjectJewelrySaleStore
+## 📊 🛍️ ProjectJewelrySaleStore
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&repo=Mobile-device-progamming-personal-excercises&layout=compact)
 
+## 📊 💎 CuaHangTrangSuc
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&repo=CuaHangTrangSuc&layout=compact)
+
+## 📊 🤖 AIFaceDetectionProject
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&repo=AIFaceDetectionProject&layout=compact)
+
+## 📊📱 Mobile-device-progamming-personal-excercises
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&repo=Mobile-device-progamming-personal-excercises&layout=compact)
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical)
