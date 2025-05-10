@@ -1,4 +1,3 @@
-```mermaid
 pie
   title A Pie Chart
   "Apples" : 45
