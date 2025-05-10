@@ -1,8 +1,3 @@
-pie
-  title A Pie Chart
-  "Apples" : 45
-  "Oranges" : 25
-  "Bananas" : 30
 
 <h1 align="center">👋 Hi, I'm Tran The Hao</h1>
 
