@@ -1,7 +1,9 @@
 # <div align="center">👋 Tran The Hao</div>
 <div align="center">Information Technology Student & Developer</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=default)
+## 📊 Analyze source code
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&repo=Mobile-device-progamming-personal-excercises&layout=compact)
 
 
 ## 📊 Stats
