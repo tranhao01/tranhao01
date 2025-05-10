@@ -65,6 +65,33 @@
 - Self-Learning & Meditation
 - Universe & Metaphysics
 
+## PROJECT
+🛍️ ProjectJewelrySaleStore
+## 📊 Source Code Analysis
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&repo=ProjectJewelrySaleStore&layout=compact)
+
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=ProjectJewelrySaleStore&show_owner=true)________________________________________
+💎 CuaHangTrangSuc
+## 📊 Source Code Analysis
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&repo=CuaHangTrangSuc&layout=compact)
+
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=CuaHangTrangSuc&show_owner=true)________________________________________
+🤖 AIFaceDetectionProject
+## 📊 Source Code Analysis
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&repo=AIFaceDetectionProject&layout=compact)
+
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=AIFaceDetectionProject&show_owner=true)________________________________________
+📱 Mobile-device-progamming-personal-excercises
+## 📊 Source Code Analysis
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&repo=Mobile-device-progamming-personal-excercises&layout=compact)
+
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=Mobile-device-progamming-personal-excercises&show_owner=true)
+
+
 ## 🔗 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-blue?style=for-the-badge&logo=googlechrome)](https://sites.google.com/view/tranthehaoportfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-050903-black?style=for-the-badge&logo=github)](https://github.com/050903)
