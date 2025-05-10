@@ -1,6 +1,9 @@
 # <div align="center">👋 Tran The Hao</div>
 <div align="center">Information Technology Student & Developer</div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=default)
+
+
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=050903&theme=radical)
