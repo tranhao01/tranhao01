@@ -11,6 +11,7 @@
 </p>
 
 ## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=compact)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical" alt="GitHub Stats" />
