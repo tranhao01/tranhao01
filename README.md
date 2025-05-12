@@ -11,7 +11,6 @@
 </p>
 
 ## 📈 GitHub Stats
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=personal-portfolio&theme=tokyonight&show_owner=true)](https://github.com/050903/personal-portfolio)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=donut-vertical&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
