@@ -11,8 +11,9 @@
 </p>
 
 ## 📈 GitHub Stats
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=donut-vertical&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical" alt="GitHub Stats" />
