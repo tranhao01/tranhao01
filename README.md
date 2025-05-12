@@ -11,11 +11,11 @@
 </p>
 
 ## 📈 GitHub Stats
-<div style="text-align: center;">
-  <p align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=donut-vertical&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=donut-vertical&langs_count=10&theme=dark" alt="Top Languages"/>
+</p>
+
 
 
 <p align="center">
