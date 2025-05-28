@@ -16,8 +16,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=donut-vertical&langs_count=10&theme=dark" alt="Top Languages"/>
 </p>
 
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=050903&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=050903&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=050903&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=050903&theme=2077&utcOffset=8)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -34,51 +36,6 @@
 - 🔍 Seeking opportunities in company positions or remote work
 - 📧 Contact: [050903tth@gmail.com](mailto:050903tth@gmail.com)
 - 🎂 Born: 09/05/2003
-
-## 🛠️ Tech Stack
-
-### Languages
-![HTML](https://img.shields.io/badge/HTML-Expert-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-blue?logo=css3)
-![SCSS](https://img.shields.io/badge/SCSS-Intermediate-pink?logo=sass)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Python-Basic-blue?logo=python)
-![C](https://img.shields.io/badge/C-Basic-blue?logo=c)
-![C++](https://img.shields.io/badge/C++-Basic-blue?logo=cplusplus)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-Framework-green?logo=django)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-purple?logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-0ea5e9?logo=tailwindcss)
-![jQuery](https://img.shields.io/badge/jQuery-Library-blue?logo=jquery)
-![Node.js](https://img.shields.io/badge/Node.js-Runtime-green?logo=node.js)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-Database-red?logo=redis)
-![MS SQL](https://img.shields.io/badge/MSSQL-Database-blue?logo=microsoftsqlserver)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-Version_Control-red?logo=git)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-blue?logo=visualstudiocode)
-![Selenium](https://img.shields.io/badge/Selenium-Testing-green?logo=selenium)
-![Unity](https://img.shields.io/badge/Unity-Game_Dev-black?logo=unity)
-![Photoshop](https://img.shields.io/badge/Photoshop-Design-blue?logo=adobephotoshop)
-
-### Content Creation
-![CapCut](https://img.shields.io/badge/CapCut-Editing-lightgrey?logo=capcut)
-![Canva](https://img.shields.io/badge/Canva-Design-blue?logo=canva)
-![Picsart](https://img.shields.io/badge/Picsart-Creative-magenta?logo=picsart)
-
-### Office Skills
-![MS Word](https://img.shields.io/badge/Word-Office-blue?logo=microsoftword)
-![MS Excel](https://img.shields.io/badge/Excel-Office-green?logo=microsoftexcel)
-![MS PowerPoint](https://img.shields.io/badge/PowerPoint-Office-red?logo=microsoftpowerpoint)
-![English](https://img.shields.io/badge/English-Intermediate-yellow?logo=polywork)
 
 ## 🛠️ Tech Stack
 
