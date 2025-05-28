@@ -10,23 +10,14 @@
   Passionate about coding, learning, and building impactful projects.
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=donut-vertical&langs_count=10&theme=dark" alt="Top Languages"/>
-</p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=050903&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=050903&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=050903&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=050903&theme=2077&utcOffset=8)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=050903&theme=radical" alt="GitHub Streak" />
-</p>
+📈 GitHub Stats
+<div align="center">
+🔝 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=donut-vertical&langs_count=10&theme=dark" alt="Top Languages" />
+🧩 Summary Cards
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=050903&theme=2077" alt="Profile Details" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=050903&theme=2077" alt="Repos per Language" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=050903&theme=2077" alt="Most Commit Language" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=050903&theme=2077&utcOffset=8" alt="Productive Time" />
+📊 GitHub Contributions
+<img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=050903&theme=radical" alt="GitHub Streak" /> </div>
 
 ## 🧑‍💻 About Me
 
