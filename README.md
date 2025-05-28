@@ -10,7 +10,7 @@
   Passionate about coding, learning, and building impactful projects.
 </p>
 
-📈 GitHub Stats
+# 📈 GitHub Stats
 <div align="center">
 🔝 Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=donut-vertical&langs_count=10&theme=dark" alt="Top Languages" />
