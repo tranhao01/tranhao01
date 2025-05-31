@@ -15,6 +15,9 @@
   <img src="https://komarev.com/ghpvc/?username=050903&color=blue" alt="Profile Views" />
 </p>
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/050903/github-readme-activity-graph)
+
 ---
 
 <h1 align="center">🏆 My GitHub Trophies</h1>
