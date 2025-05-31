@@ -1,15 +1,22 @@
-<h1 align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=050903)](https://github.com/050903/github-profile-trophy)
+<h1 align="center">🏆 My GitHub Trophies</h1>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=050903&theme=onedark" alt="Trophies" />
+
+</div>
+--------------
 <h1 align="center">👋 Hi, I'm Tran The Hao</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=050903&color=blue" alt="Profile Views" />
 </p>
-
+--------------
 <p align="center">
   <b>Information Technology Student & Developer</b><br>
   Passionate about coding, learning, and building impactful projects.
 </p>
-
+------------
 # 📈 GitHub Stats
 <div align="center">
 🔝 Top Languages
