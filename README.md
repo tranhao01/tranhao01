@@ -1,4 +1,4 @@
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=050903)](https://github.com/050903/github-profile-trophy)
 <h1 align="center">👋 Hi, I'm Tran The Hao</h1>
 
 <p align="center">
