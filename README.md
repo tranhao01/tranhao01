@@ -16,7 +16,8 @@
 </p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/050903/github-readme-activity-graph)
+[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=050903&theme=dracula)](https://github.com/050903/github-readme-activity-graph)
+
 
 ---
 
