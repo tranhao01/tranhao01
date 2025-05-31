@@ -4,11 +4,19 @@
 
 
 <h1 align="center">👋 Hi, I'm Tran The Hao</h1>
+<p align="center">
+  <b>Information Technology Student & Developer</b><br>
+  Passionate about coding, learning, and building impactful projects.
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=050903&color=blue" alt="Profile Views" />
 </p>
+
 ---
+
 <h1 align="center">🏆 My GitHub Trophies</h1>
 
 <div align="center">
@@ -16,13 +24,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=050903&theme=onedark" alt="Trophies" />
 
 </div>
+
 ---
-<p align="center">
-  <b>Information Technology Student & Developer</b><br>
-  Passionate about coding, learning, and building impactful projects.
-</p>
-
-
 
 
 # 📈 GitHub Stats
