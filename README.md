@@ -1,6 +1,5 @@
-<a href="#" target="_blank">
-  <img src="svg/TranTheHao.svg" width="1200" alt="TranTheHao-official" />
-</a>
+[![TranTheHao-official](svg/TranTheHao.svg)](svg/TranTheHao.svg)
+
 
 <h1 align="center">👋 Hi, I'm Tran The Hao</h1>
 <p align="center">
