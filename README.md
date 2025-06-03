@@ -1,4 +1,4 @@
-[![TranTheHao-official](svg/TranTheHao.svg)](svg/TranTheHao.svg)
+[![TranTheHao-official](TranTheHao.svg)](svg/TranTheHao.svg)
 
 
 <h1 align="center">👋 Hi, I'm Tran The Hao</h1>
