@@ -28,7 +28,10 @@
 </div>
 
 ---
+## 050903 diagram
+![image](https://github.com/user-attachments/assets/a236e927-6b14-4b04-b357-01d39d4cb520)
 
+---
 
 # 📈 GitHub Stats
 <div align="center">
