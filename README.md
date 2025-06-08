@@ -18,7 +18,9 @@
 
 
 ---
+![image](https://github.com/user-attachments/assets/68c96630-85f4-4855-9d77-ca92c6d3e62e)
 
+---
 <h1 align="center">🏆 My GitHub Trophies</h1>
 
 <div align="center">
