@@ -21,6 +21,15 @@
 ![image](https://github.com/user-attachments/assets/38b0fc89-5e26-4031-b2c3-287102a5d9e1)
 
 ---
+
+### 🏙️ GitHub Skyline 3D Model 🏙️
+
+This is a 3D contribution model by the account `TranTheHao`. Click on the image below to rotate and see details!
+
+[![TranTheHao Skyline](https://github.com/050903/My-skyline-models/blob/main/TranTheHao-2025-github-skyline.stl)](https://github.com/050903/My-skyline-models/blob/main/TranTheHao-2025-github-skyline.stl)
+
+---
+
 <h1 align="center">🏆 My GitHub Trophies</h1>
 
 <div align="center">
