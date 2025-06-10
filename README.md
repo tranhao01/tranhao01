@@ -22,15 +22,16 @@
 
 ---
 
-### 🏙️ GitHub Skyline 3D Model 🏙️
+### 🏙️ GitHub Skyline 3D 🏙️
 
+### ---->CLICK IT
 
-| 050903 (2020-2025) | 050903 (2023-2025) |
-| :---: | :---: |
-| [![050903 (2020-2025)](https://github.com/050903/My-skyline-models/blob/main/050903-2020-25-github-skyline.stl)](https://github.com/050903/My-skyline-models/blob/main/050903-2020-25-github-skyline.stl) | [![050903 (2023-2025)](https://github.com/050903/My-skyline-models/blob/main/050903-2023-25-github-skyline.stl)](https://github.com/050903/My-skyline-models/blob/main/050903-2023-25-github-skyline.stl) |
-| **050903 (2025)** | **TranTheHao (2025)** |
-| [![050903 (2025)](https://github.com/050903/My-skyline-models/blob/main/050903-2025-github-skyline.stl)](https://github.com/050903/My-skyline-models/blob/main/050903-2025-github-skyline.stl) | [![TranTheHao (2025)](https://github.com/050903/My-skyline-models/blob/main/TranTheHao-2025-github-skyline.stl)](https://github.com/050903/My-skyline-models/blob/main/TranTheHao-2025-github-skyline.stl) |
-
+| Describe | Link to watch 3D |
+| :--- | :--- |
+| **050903 (Giai đoạn 2020-2025)** | [➡️ Xem mô hình](https://github.com/050903/My-skyline-models/blob/main/050903-2020-25-github-skyline.stl) |
+| **050903 (Giai đoạn 2023-2025)** | [➡️ Xem mô hình](https://github.com/050903/My-skyline-models/blob/main/050903-2023-25-github-skyline.stl) |
+| **050903 (Chỉ năm 2025)** | [➡️ Xem mô hình](https://github.com/050903/My-skyline-models/blob/main/050903-2025-github-skyline.stl) |
+| **TranTheHao (Chỉ năm 2025)** | [➡️ Xem mô hình](https://github.com/050903/My-skyline-models/blob/main/TranTheHao-2025-github-skyline.stl) |
 ---
 
 <h1 align="center">🏆 My GitHub Trophies</h1>
