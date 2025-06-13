@@ -107,12 +107,6 @@
 ![MS PowerPoint](https://img.shields.io/badge/PowerPoint-Office-red?logo=microsoftpowerpoint)
 ![English](https://img.shields.io/badge/English-Intermediate-yellow?logo=polywork)
 
-## 🔍 Interests
-
-- Network Security
-- Financial Independence
-- Self-Learning & Meditation
-- Universe & Metaphysics
 
 
   <a href="https://github.com/050903">
