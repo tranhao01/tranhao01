@@ -60,14 +60,7 @@
 📊 GitHub Contributions
 <img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=050903&theme=radical" alt="GitHub Streak" /> </div>
 
-## 🧑‍💻 About Me
 
-- 🎓 Studying Information Technology at University of Transport Ho Chi Minh City
-- 💼 Currently working in Ho Chi Minh City
-- 📍 Based in Hóc Môn, HCM City
-- 🔍 Seeking opportunities in company positions or remote work
-- 📧 Contact: [050903tth@gmail.com](mailto:050903tth@gmail.com)
-- 🎂 Born: 09/05/2003
 
 ## 🛠️ Tech Stack
 
@@ -121,28 +114,10 @@
 - Self-Learning & Meditation
 - Universe & Metaphysics
 
-## 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://sites.google.com/view/tranthehaoportfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-blue?style=for-the-badge&logo=googlechrome" alt="Portfolio" />
-  </a>
   <a href="https://github.com/050903">
     <img src="https://img.shields.io/badge/GitHub-050903-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/hảo-trần-thế-507026290">
-    <img src="https://img.shields.io/badge/LinkedIn-Trần_Thế_Hảo-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/trần%20thế%20hảo">
-    <img src="https://img.shields.io/badge/Facebook-Trần_Thế_Hảo-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
-  </a>
-  <a href="https://www.youtube.com/c/hảo%20trần%20thế">
-    <img src="https://img.shields.io/badge/YouTube-Hảo_Trần_Thế-red?style=for-the-badge&logo=youtube" alt="YouTube" />
-  </a>
-  <a href="mailto:050903tth@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
+  
 
 ## 👨‍💻 Author
 Trần Thế Hảo
