@@ -19,9 +19,7 @@
 <a href="https://github.com/050903">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github" alt="Tran The Hao's GitHub Stats" />
 </a>
-<a href="https://github.com/050903">
-  <img height="200" src="https://github-readme-streak-stats.demolab.com/?user=050903&theme=radical&hide_border=true" alt="GitHub Streak" />
-</a>
+
 
 </div>
 
@@ -113,8 +111,11 @@
 <h1 align="center">🏆 My GitHub Trophies</h1>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=050903&theme=onedark&margin-w=15&margin-h=15" alt="Trophies" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=050903&theme=onedark" alt="Trophies" />
+
 </div>
+
 
 ---
 
@@ -130,7 +131,7 @@
 | **050903 (Period 2020-2025)** | [➡️ 3D Model](https://github.com/050903/My-skyline-models/blob/main/050903-2020-25-github-skyline.stl) |
 | **050903 (Period 2023-2025)** | [➡️ 3D Model](https://github.com/050903/My-skyline-models/blob/main/050903-2023-25-github-skyline.stl) |
 | **050903 (Just 2025)** | [➡️ 3D Model](https://github.com/050903/My-skyline-models/blob/main/050903-2025-github-skyline.stl) |
-| **TranTheHao (Chỉ năm 2025)** | [➡️ 3D Model](https://github.com/050903/My-skyline-models/blob/main/TranTheHao-2025-github-skyline.stl) |
+| **TranTheHao (Just 2025)** | [➡️ 3D Model](https://github.com/050903/My-skyline-models/blob/main/TranTheHao-2025-github-skyline.stl) |
 ---
 
 ## 🛠️ Tech Stack
