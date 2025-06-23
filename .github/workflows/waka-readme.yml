@@ -1,10 +1,11 @@
+# .github/workflows/waka-readme.yml
+
 name: Waka Readme Update
 
 on:
+  workflow_dispatch:
   schedule:
-    # Chạy mỗi 6 tiếng
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Cho phép chạy thủ công
+    - cron: '0 */4 * * *'
 
 jobs:
   update-readme:
@@ -15,10 +16,21 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Tùy chọn thêm
+          API_BASE_URL: https://wakatime.com/api
+          REPOSITORY: 050903/050903
           SHOW_TITLE: true
-          TIME_RANGE: "last_7_days"
+          SECTION_NAME: waka
+          BLOCKS: '░▒▓█'
+          CODE_LANG: text
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
-          LANG_COUNT: 10
-          BLOCKS: "░▒▓█"
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+          COMMIT_MESSAGE: 'Updated WakaTime stats'
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
