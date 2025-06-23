@@ -1,62 +1,77 @@
 [![TranTheHao-official](TranTheHao.svg)](svg/TranTheHao.svg)
 
-<h1 align="center">👋 Hi, I'm Tran The Hao</h1>
-<p align="center">
-  <b>Information Technology Student & Developer</b><br>
-  Passionate about coding, learning, and building impactful projects.
-</p>
+<div align="center">
+
+# 🚀 NEURAL INTERFACE INITIALIZED 🧠
+```
+████████████████████████████████████████████████████████████████████████████████
+█                                                                              █
+█   ╔══════════════════════════════════════════════════════════════════════╗   █
+█   ║                    👋 GREETINGS, I'M TRAN THE HAO                   ║   █
+█   ║                                                                      ║   █
+█   ║         🔮 Information Technology Student & Developer 🔮             ║   █
+█   ║      Passionate about coding, learning, and building the future      ║   █
+█   ╚══════════════════════════════════════════════════════════════════════╝   █
+█                                                                              █
+████████████████████████████████████████████████████████████████████████████████
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%9A%80+SYSTEM+BOOTING...;%F0%9F%94%A5+LOADING+NEURAL+NETWORKS;%F0%9F%A7%A0+AI+CONSCIOUSNESS+ACTIVE;%F0%9F%8C%8C+READY+TO+INNOVATE;%F0%9F%92%AB+THE+FUTURE+IS+NOW" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=🌌%20NEURAL%20NEXUS%20🌌&fontSize=50&fontAlignY=35&desc=Where%20Code%20Meets%20Consciousness&descAlignY=51&descAlign=62&animation=twinkling" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=050903&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=050903&color=blueviolet&style=for-the-badge&label=👁️+NEURAL+SCANS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/🧠+BRAIN+CAPACITY-∞-00ff41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡+POWER+LEVEL-9000+-ff6b35?style=for-the-badge" />
 </p>
 
 ---
 
-<h1 align="center">📊 My GitHub Stats & Activity Showcase</h1>
-
 <div align="center">
 
-<a href="https://github.com/050903">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github" alt="Tran The Hao's GitHub Stats" />
-</a>
+## 🌟 QUANTUM STATS MATRIX 🌟
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=📊+Analyzing+Neural+Patterns...;🔬+Quantum+Computing+Active;🚀+Innovation+Drive%3A+Maximum;💎+Code+Quality%3A+Diamond+Tier" alt="Stats Loading" />
 
 </div>
 
-<details align="center">
-  <summary>🔎 Click to see more Stats Card variations</summary>
-  <br>
-  <div align="center">
-    <!-- Thêm nhiều ví dụ về Stats Card ở đây -->
-    <img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card Tokyo Night Theme" />
-    <img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=dracula&hide_border=true" alt="Stats Card Dracula Theme" />
-    <img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=merko&hide_border=true" alt="Stats Card Merko Theme" />
-    <img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&title_color=00e676&text_color=e0e0e0&icon_color=00e676&bg_color=151515&hide_border=true" alt="Stats Card Custom Theme" />
-  </div>
-</details>
-
----
-
-<h2 align="center">💻 Top Languages Showcase</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=🧠%20NEURAL%20CORE%20STATS&title_color=00f5ff&text_color=ffffff&icon_color=ff6b35&bg_color=0d1117" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=050903&theme=tokyonight&hide_border=true&stroke=00f5ff&ring=ff6b35&fire=ff6b35&currStreakLabel=00f5ff&background=0d1117" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=donut-vertical&theme=dark&hide_border=true&langs_count=10" alt="Top Languages Donut Vertical" />
-
+  <img src="https://activity-graph.herokuapp.com/graph?username=050903&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=ff6b35&point=ffffff&area=true&hide_border=true&custom_title=🚀%20QUANTUM%20CONTRIBUTION%20MATRIX" />
 </div>
 
 <details align="center">
-  <summary>🎨 Click to see more Language Card layouts</summary>
+  <summary>🔬 ADVANCED NEURAL ANALYTICS 🔬</summary>
   <br>
+  
+  ### 🎨 Multi-Dimensional Stats Portal
+  
   <div align="center">
     <table>
       <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Compact Layout"/></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=pie&theme=gruvbox&hide_border=true" alt="Pie Chart Layout"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=radical&hide_border=true&custom_title=🔥%20RADICAL%20MODE" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=dracula&hide_border=true&custom_title=🧛%20DARK%20MATRIX" /></td>
       </tr>
       <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&hide=html,css&langs_count=6&theme=2077&hide_border=true" alt="Hiding Specific Languages"/></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=donut&theme=onedark&hide_border=true" alt="Donut Layout"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&theme=merko&hide_border=true&custom_title=🌿%20BIO%20INTERFACE" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=050903&show_icons=true&title_color=00e676&text_color=e0e0e0&icon_color=00e676&bg_color=151515&hide_border=true&custom_title=⚡%20NEON%20CORE" /></td>
       </tr>
     </table>
   </div>
@@ -64,49 +79,218 @@
 
 ---
 
-<h2 align="center">📈 Contribution Activity Graph</h2>
-
 <div align="center">
 
-[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=050903&theme=dracula&hide_border=true&area=true&line=ff79c6&point=bd93f9)](https://github.com/050903)
+## 🔮 QUANTUM LANGUAGE DISTRIBUTION 🔮
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=🧬+Analyzing+Code+DNA...;⚛️+Quantum+Language+Parser;🌐+Multi-Dimensional+Syntax;📡+Neural+Network+Active" alt="Language Analysis" />
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&custom_title=🚀%20NEURAL%20LANGUAGE%20CORE&title_color=00f5ff&text_color=ffffff&bg_color=0d1117" />
+</div>
+
 <details align="center">
-  <summary>🎨 Click to see more Graph themes & styles</summary>
+  <summary>🌈 MULTIVERSAL LANGUAGE INTERFACE 🌈</summary>
   <br>
+  
+  ### 🎭 Reality Distortion Field - Language Cards
+  
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=050903&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph Tokyo Night"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=050903&theme=github-compact&hide_border=true" alt="Activity Graph GitHub Compact"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=050903&bg_color=1a1b27&color=7982a9&line=a9b1d6&point=ff9e64&area=true&hide_border=true&custom_title=My%20Coding%20Journey" alt="Activity Graph Custom"/>
+    <table>
+      <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=🌙%20NIGHT%20VISION"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=pie&theme=gruvbox&hide_border=true&custom_title=🍕%20QUANTUM%20PIE"/></td>
+      </tr>
+      <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&hide=html,css&langs_count=6&theme=synthwave&hide_border=true&custom_title=🌈%20SYNTHWAVE"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=050903&layout=donut&theme=onedark&hide_border=true&custom_title=🍩%20NEURAL%20DONUT"/></td>
+      </tr>
+    </table>
   </div>
 </details>
 
 ---
 
-<h2 align="center">🕒 WakaTime Coding Activity</h2>
-<p align="center">Thống kê thời gian code của tôi, được cập nhật tự động hàng ngày.</p>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-> **Lưu ý:** Phần này sẽ được tự động cập nhật sau khi bạn cài đặt GitHub Action. Xem hướng dẫn ở cuối file.
-
----
-
-<h2 align="center">📌 Extra Pinned Repositories</h2>
-<p align="center">Ghim nhiều hơn 6 repo yêu thích của bạn!</p>
-
 <div align="center">
 
-<a href="https://github.com/050903/My-skyline-models">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=My-skyline-models&theme=dark&hide_border=true&show_owner=true" />
-</a>
-<a href="https://github.com/050903/050903">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=050903&theme=radical&hide_border=true&show_owner=true" />
-</a>
+## 🌊 NEURAL WAVE ACTIVITY MATRIX 🌊
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=📈+Quantum+Activity+Detected;🌊+Neural+Waves+Synchronized;⚡+Brain+Frequency%3A+MAXIMUM;🚀+Innovation+Pulse%3A+ACTIVE" alt="Activity Matrix" />
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=050903&theme=tokyo-night&hide_border=true&area=true&line=ff79c6&point=bd93f9&bg_color=0d1117&color=00f5ff&custom_title=🧠%20NEURAL%20ACTIVITY%20GRAPH" />
+</div>
+
+<details align="center">
+  <summary>🎨 REALITY DISTORTION GRAPHS 🎨</summary>
+  <br>
+  
+  ### 🌌 Multiverse Activity Streams
+  
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=050903&theme=dracula&hide_border=true&area=true&custom_title=🧛%20DRACULA%20DIMENSION"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=050903&theme=github-compact&hide_border=true&custom_title=⚫%20VOID%20MATRIX"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=050903&bg_color=1a1b27&color=7982a9&line=a9b1d6&point=ff9e64&area=true&hide_border=true&custom_title=🌟%20STARFIELD%20NEURAL%20MAP"/>
+  </div>
+</details>
+
 ---
+
+<div align="center">
+
+# 🚀 QUANTUM PROJECT NEXUS 🚀
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🔬+Quantum+Projects+Loading...;🧬+DNA+Analysis+Complete;🚀+Launch+Sequence+Initiated;💎+Premium+Code+Detected;🌟+Innovation+Level%3A+MAXIMUM" alt="Project Loading" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" />
+</div>
+
+---
+
+<div align="center">
+
+## 🤖 AI & NEURAL INTELLIGENCE DIVISION 🧠
+
+*🔬 Core focus: Building intelligent systems that transcend human limitations. These projects demonstrate mastery in deep learning, quantum data analysis, and next-generation AI applications.*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=🧠+Neural+Networks+Active;🔮+Quantum+ML+Processing;🚀+AI+Consciousness+Online;⚡+Deep+Learning+Engaged" alt="AI Status" />
+
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/050903/AI-machine-and-deep-learning-with-new-materials">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=AI-machine-and-deep-learning-with-new-materials&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/050903/AI-Research-Application">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=AI-Research-Application&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/050903/Sales-Data-Analysis-and-Visualization">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=Sales-Data-Analysis-and-Visualization&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/050903/AIFaceDetectionProject">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=AIFaceDetectionProject&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ QUANTUM APPLICATION FOUNDRY ⚡
+
+*🚀 From revolutionary desktop tools to full-featured web applications and immersive games - these are battle-tested, production-ready applications built for the future.*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1800&pause=700&color=FF6B35&center=true&vCenter=true&width=600&lines=⚡+Quantum+Apps+Compiling;🔧+Neural+Tools+Active;🎮+Game+Engine+Online;🌐+Web+Matrix+Deployed" alt="Apps Status" />
+
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/050903/All-in-python-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=All-in-python-project&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/050903/PDF-Word-Translation-Tools-Over-500-Pages">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=PDF-Word-Translation-Tools-Over-500-Pages&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/050903/Pro-snake-game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=Pro-snake-game&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/050903/Fetch-weather-webapp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=Fetch-weather-webapp&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💡 ALGORITHM VISUALIZATION LAB 🔬
+
+*🧬 Precision-engineered projects focusing on cutting-edge algorithms, quantum data structures, and mind-bending visualizations.*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=600&lines=🔬+Algorithm+Analysis;🧬+Data+Structure+DNA;🎨+Visualization+Engine;⚛️+Quantum+Computing" alt="Algorithm Status" />
+
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/050903/Hill-Cipher-Implementation-in-Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=Hill-Cipher-Implementation-in-Python&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/050903/3D-Square-Animation-with-Matplotlib">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=3D-Square-Animation-with-Matplotlib&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🌟 QUANTUM REPOSITORY NEXUS 🌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&pause=800&color=F75C7E&center=true&vCenter=true&width=500&lines=🔥+Elite+Repos+Loading;💎+Premium+Code+Detected;🚀+Innovation+Overdrive;⚡+Neural+Link+Active" alt="Extra Repos" />
+
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/050903/My-skyline-models">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=My-skyline-models&theme=tokyonight&hide_border=true&show_owner=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/050903/050903">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=050903&repo=050903&theme=tokyonight&hide_border=true&show_owner=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 NEURAL ACHIEVEMENT MATRIX 🏆
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🏆+Trophy+Scanner+Active;💎+Achievement+Unlocked;🌟+Legend+Status%3A+CONFIRMED;⚡+Power+Level%3A+MAXIMUM" alt="Trophy Loading" />
 
 <h1 align="center">🏆 My GitHub Trophies</h1>
 
@@ -116,152 +300,121 @@
 
 </div>
 
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=050903&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Followers,Stars,Reviews" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26,27,28&height=4" />
+</div>
 
 ---
 
-### 🏙️ GitHub Skyline 3D 🏙️
+<div align="center">
+
+# 🏙️ GITHUB SKYLINE 3D MATRIX 🏙️
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🏗️+3D+Reality+Constructing...;🌆+Skyline+Generator+Active;🚁+Aerial+View+Enabled;🌟+Architectural+Masterpiece" alt="Skyline Loading" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=🌃%20NEURAL%20SKYLINE%20🌃&fontSize=30&fontColor=ffffff&animation=blinking" />
+</div>
+
 ![image](https://github.com/user-attachments/assets/b640fbb7-44f5-4bd2-b4aa-cf5086e45e06)
 ![image](https://github.com/user-attachments/assets/ee045555-0099-4ba8-a301-95fb854562c4)
 ![image](https://github.com/user-attachments/assets/42c3a7f2-9a7b-4d9c-b6c6-516c957d947e)
 ![image](https://github.com/user-attachments/assets/8c81a283-d932-48da-a755-07502494250d)
 
-#### ----> CLICK IT
-| Describe | Link to watch 3D |
-| :--- | :--- |
-| **050903 (Period 2020-2025)** | [➡️ 3D Model](https://github.com/050903/My-skyline-models/blob/main/050903-2020-25-github-skyline.stl) |
-| **050903 (Period 2023-2025)** | [➡️ 3D Model](https://github.com/050903/My-skyline-models/blob/main/050903-2023-25-github-skyline.stl) |
-| **050903 (Just 2025)** | [➡️ 3D Model](https://github.com/050903/My-skyline-models/blob/main/050903-2025-github-skyline.stl) |
-| **TranTheHao (Just 2025)** | [➡️ 3D Model](https://github.com/050903/My-skyline-models/blob/main/TranTheHao-2025-github-skyline.stl) |
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![HTML](https://img.shields.io/badge/HTML-Expert-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-blue?logo=css3)
-![SCSS](https://img.shields.io/badge/SCSS-Intermediate-pink?logo=sass)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Python-Basic-blue?logo=python)
-![C](https://img.shields.io/badge/C-Basic-blue?logo=c)
-![C++](https://img.shields.io/badge/C++-Basic-blue?logo=cplusplus)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-Framework-green?logo=django)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-purple?logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-0ea5e9?logo=tailwindcss)
-![jQuery](https://img.shields.io/badge/jQuery-Library-blue?logo=jquery)
-![Node.js](https://img.shields.io/badge/Node.js-Runtime-green?logo=node.js)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-Database-red?logo=redis)
-![MS SQL](https://img.shields.io/badge/MSSQL-Database-blue?logo=microsoftsqlserver)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-Version_Control-red?logo=git)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-blue?logo=visualstudiocode)
-![Selenium](https://img.shields.io/badge/Selenium-Testing-green?logo=selenium)
-![Unity](https://img.shields.io/badge/Unity-Game_Dev-black?logo=unity)
-![Photoshop](https://img.shields.io/badge/Photoshop-Design-blue?logo=adobephotoshop)
-
-### Content Creation
-![CapCut](https://img.shields.io/badge/CapCut-Editing-lightgrey?logo=capcut)
-![Canva](https://img.shields.io/badge/Canva-Design-blue?logo=canva)
-![Picsart](https://img.shields.io/badge/Picsart-Creative-magenta?logo=picsart)
-
-### Office Skills
-![MS Word](https://img.shields.io/badge/Word-Office-blue?logo=microsoftword)
-![MS Excel](https://img.shields.io/badge/Excel-Office-green?logo=microsoftexcel)
-![MS PowerPoint](https://img.shields.io/badge/PowerPoint-Office-red?logo=microsoftpowerpoint)
-![English](https://img.shields.io/badge/English-Intermediate-yellow?logo=polywork)
-
-<br>
-
 <div align="center">
-  <a href="https://github.com/050903">
-    <img src="https://img.shields.io/badge/GitHub-050903-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+
+## 🚀 3D MODEL LAUNCH PORTAL 🚀
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1500&pause=500&color=FF6B35&center=true&vCenter=true&width=500&lines=🔗+Quantum+Links+Generated;🌐+3D+Portal+Active;🚀+Launch+Sequence+Ready;⚡+Neural+Interface+Online" alt="3D Links" />
+
 </div>
 
----
-
-## 👨‍💻 Author & Education
-
-**Trần Thế Hảo**  
-*Information Technology, University of Transport Ho Chi Minh City (UTH)*
-
-![image](https://github.com/user-attachments/assets/c2488ba6-05d8-40dd-b8c6-ff3db7cf8cf5)
+| 🎯 **NEURAL DESCRIPTION** | 🌌 **QUANTUM 3D PORTAL** |
+| :--- | :--- |
+| **🔥 050903 (Neural Timeline 2020-2025)** | [🚀 **LAUNCH 3D MATRIX**](https://github.com/050903/My-skyline-models/blob/main/050903-2020-25-github-skyline.stl) |
+| **⚡ 050903 (Quantum Era 2023-2025)** | [🌟 **ENTER 3D REALM**](https://github.com/050903/My-skyline-models/blob/main/050903-2023-25-github-skyline.stl) |
+| **💎 050903 (Current Reality 2025)** | [🔮 **ACCESS 3D CORE**](https://github.com/050903/My-skyline-models/blob/main/050903-2025-github-skyline.stl) |
+| **🌈 TranTheHao (Present Dimension 2025)** | [🎆 **OPEN 3D NEXUS**](https://github.com/050903/My-skyline-models/blob/main/TranTheHao-2025-github-skyline.stl) |
 
 ---
 
-<h1 align="center">⚙️ Hướng Dẫn Cài Đặt (Quan Trọng)</h1>
+<div align="center">
 
-### WakaTime Action Setup
+# 🛠️ QUANTUM TECH ARSENAL 🛠️
 
-Để phần **WakaTime Coding Activity** tự động hiển thị, bạn cần làm theo các bước sau:
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+Neural+Tech+Loading...;🔧+Quantum+Tools+Armed;🚀+Systems+Online;💫+Ready+for+Innovation" alt="Tech Stack Loading" />
 
-**1. Lấy WakaTime API Key:**
-   - Truy cập [wakatime.com](https://wakatime.com/), đăng nhập (có thể bằng tài khoản GitHub).
-   - Vào [Account Settings](https://wakatime.com/settings/account) và sao chép chuỗi **Secret API Key**.
-   - Cài đặt WakaTime extension vào VS Code (hoặc IDE bạn dùng) và dán API key vào.
+</div>
 
-**2. Thêm Secret vào GitHub Repository:**
-   - Trong repo `050903/05090.jpg`), vào **Settings** -> **Secrets and variables** -> **Actions**.
-   - Nhấn **New repository secret**.
-   - **Name:** `WAKATIME_API_KEY`
-   - **Secret:** Dán API Key bạn vừa copy vào.
-   - Nhấn **Add secret**.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=🔬%20NEURAL%20LABORATORY%20🔬&fontSize=35&fontAlignY=35&animation=fadeIn" />
+</div>
 
-**3. Tạo file Workflow:**
-   - Trong repository, tạo file tại đường dẫn `.github/workflows/waka-readme.yml`.
-   - Sao chép và dán toàn bộ nội dung dưới đây vào file đó. File này chứa rất nhiều tùy chọn, bạn có thể bỏ comment (xóa dấu `#`) để kích hoạt chúng.
+## 🧬 CORE PROGRAMMING DNA 🧬
 
-```yaml
-# .github/workflows/waka-readme.yml
+<div align="center">
 
-name: Waka Readme Update
+![HTML](https://img.shields.io/badge/HTML-🔥%20EXPERT%20LEVEL-FF6B35?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-⚡%20INTERMEDIATE-00F7FF?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-💎%20INTERMEDIATE-FF69B4?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-🚀%20BASIC-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-🐍%20BASIC-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-⚙️%20BASIC-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-🔧%20BASIC-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-on:
-  workflow_dispatch: # Cho phép chạy thủ công từ tab Actions
-  schedule:
-    - cron: '0 */4 * * *' # Chạy mỗi 4 giờ
+</div>
 
-jobs:
-  update-readme:
-    name: Update Readme with WakaTime Stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: athul/waka-readme@master
-        with:
-          # Bắt buộc
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          
-          # Tùy chọn (bỏ comment để sử dụng)
-          ### Meta
-          # API_BASE_URL: https://wakatime.com/api # Mặc định
-          # REPOSITORY: 050903/050903 # Bắt buộc nếu đây không phải repo profile
+## 🚀 QUANTUM FRAMEWORKS & NEURAL LIBRARIES 🚀
 
-          ### Nội dung
-          SHOW_TITLE: true
-          # SECTION_NAME: waka # Tên section trong README, mặc định là waka
-          BLOCKS: '░▒▓█' # Kiểu thanh progress
-          # CODE_LANG: text # Ngôn ngữ hiển thị khối code
-          TIME_RANGE: last_30_days # Khoảng thời gian thống kê: last_7_days, last_30_days, last_6_months, last_year, all_time
-          LANG_COUNT: 10 # Số lượng ngôn ngữ hiển thị
-          SHOW_TIME: true # Hiển thị thời gian code
-          SHOW_TOTAL: true # Hiển thị tổng thời gian
-          # SHOW_MASKED_TIME: false # Hiển thị thời gian ẩn
-          # STOP_AT_OTHER: true # Dừng lại khi gặp ngôn ngữ 'Other'
-          # IGNORED_LANGUAGES: YAML JSON TOML # Các ngôn ngữ không muốn hiển thị
-          
-          ### Commit
-          # COMMIT_MESSAGE: 'Updated WakaTime stats' # Thông điệp commit
-          # TARGET_BRANCH: master # Nhánh đích
-          # TARGET_PATH: README.md # File đích
-          # COMMITTER_NAME: GitHubActionBot
-          # COMMITTER_EMAIL: action-bot@github.com
+<div align="center">
+
+![Django](https://img.shields.io/badge/Django-🌿%20FRAMEWORK-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-💜%20UI%20MASTER-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-🌊%20UI%20WIZARD-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-📚%20LIBRARY-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-⚡%20RUNTIME-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+## 🗄️ DATABASE QUANTUM VAULT 🗄️
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-🐬%20DATABASE-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🐘%20DATABASE-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-💽%20DATABASE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-🍃%20DATABASE-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-🔴%20DATABASE-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MSSQL-📊%20DATABASE-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+</div>
+
+## ⚙️ NEURAL TOOLS & QUANTUM TECHNOLOGIES ⚙️
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-🔀%20VERSION%20CONTROL-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-🐳%20CONTAINER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-💻%20EDITOR-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-🧪%20TESTING-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-🎮%20GAME%20DEV-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-🎨%20DESIGN-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+</div>
+
+## 🎬 CREATIVE QUANTUM STUDIO 🎬
+
+<div align="center">
+
+![CapCut](https://img.shields.io/badge/CapCut-✂️%20EDITING-000000?style=for-the-badge&logo=capcut&logoColor=white)
+
+![image](https://github.com/user-attachments/assets/e3a559e9-3319-4099-83c0-0fda0293df1c)
+![image](https://github.com/user-attachments/assets/62834138-918e-4da5-8fbb-7e2a49e867bc)
