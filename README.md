@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tranhao-wq&color=blueviolet&style=for-the-badge&label=👁️+NEURAL+SCANS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tranhao01&color=blueviolet&style=for-the-badge&label=👁️+NEURAL+SCANS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/🧠+BRAIN+CAPACITY-∞-00ff41?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚡+POWER+LEVEL-9000+-ff6b35?style=for-the-badge" />
 </p>
@@ -45,17 +45,17 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=tranhao-wq&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=🧠%20NEURAL%20CORE%20STATS&title_color=00f5ff&text_color=ffffff&icon_color=ff6b35&bg_color=0d1117" />
+        <img src="https://github-readme-stats.vercel.app/api?username=tranhao01&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=🧠%20NEURAL%20CORE%20STATS&title_color=00f5ff&text_color=ffffff&icon_color=ff6b35&bg_color=0d1117" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranhao-wq&theme=tokyonight&hide_border=true&stroke=00f5ff&ring=ff6b35&fire=ff6b35&currStreakLabel=00f5ff&background=0d1117" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranhao01&theme=tokyonight&hide_border=true&stroke=00f5ff&ring=ff6b35&fire=ff6b35&currStreakLabel=00f5ff&background=0d1117" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tranhao-wq&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=ff6b35&point=ffffff&area=true&hide_border=true&custom_title=🚀%20QUANTUM%20CONTRIBUTION%20MATRIX" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=tranhao01&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=ff6b35&point=ffffff&area=true&hide_border=true&custom_title=🚀%20QUANTUM%20CONTRIBUTION%20MATRIX" />
 </div>
 
 <details align="center">
@@ -67,12 +67,12 @@
   <div align="center">
     <table>
       <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=tranhao-wq&show_icons=true&theme=radical&hide_border=true&custom_title=🔥%20RADICAL%20MODE" /></td>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=tranhao-wq&show_icons=true&theme=dracula&hide_border=true&custom_title=🧛%20DARK%20MATRIX" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=tranhao01&show_icons=true&theme=radical&hide_border=true&custom_title=🔥%20RADICAL%20MODE" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=tranhao01&show_icons=true&theme=dracula&hide_border=true&custom_title=🧛%20DARK%20MATRIX" /></td>
       </tr>
       <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=tranhao-wq&show_icons=true&theme=merko&hide_border=true&custom_title=🌿%20BIO%20INTERFACE" /></td>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=tranhao-wq&show_icons=true&title_color=00e676&text_color=e0e0e0&icon_color=00e676&bg_color=151515&hide_border=true&custom_title=⚡%20NEON%20CORE" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=tranhao01&show_icons=true&theme=merko&hide_border=true&custom_title=🌿%20BIO%20INTERFACE" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=tranhao01&show_icons=true&title_color=00e676&text_color=e0e0e0&icon_color=00e676&bg_color=151515&hide_border=true&custom_title=⚡%20NEON%20CORE" /></td>
       </tr>
     </table>
   </div>
@@ -89,7 +89,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhao-wq&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&custom_title=🚀%20NEURAL%20LANGUAGE%20CORE&title_color=00f5ff&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhao01&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&custom_title=🚀%20NEURAL%20LANGUAGE%20CORE&title_color=00f5ff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <details align="center">
@@ -101,12 +101,12 @@
   <div align="center">
     <table>
       <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhao-wq&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=🌙%20NIGHT%20VISION"/></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhao-wq&layout=pie&theme=gruvbox&hide_border=true&custom_title=🍕%20QUANTUM%20PIE"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhao01&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=🌙%20NIGHT%20VISION"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhao01&layout=pie&theme=gruvbox&hide_border=true&custom_title=🍕%20QUANTUM%20PIE"/></td>
       </tr>
       <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhao-wq&hide=html,css&langs_count=6&theme=synthwave&hide_border=true&custom_title=🌈%20SYNTHWAVE"/></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhao-wq&layout=donut&theme=onedark&hide_border=true&custom_title=🍩%20NEURAL%20DONUT"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhao01&hide=html,css&langs_count=6&theme=synthwave&hide_border=true&custom_title=🌈%20SYNTHWAVE"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhao01&layout=donut&theme=onedark&hide_border=true&custom_title=🍩%20NEURAL%20DONUT"/></td>
       </tr>
     </table>
   </div>
@@ -123,7 +123,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhao-wq&theme=tokyo-night&hide_border=true&area=true&line=ff79c6&point=bd93f9&bg_color=0d1117&color=00f5ff&custom_title=🧠%20NEURAL%20ACTIVITY%20GRAPH" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhao01&theme=tokyo-night&hide_border=true&area=true&line=ff79c6&point=bd93f9&bg_color=0d1117&color=00f5ff&custom_title=🧠%20NEURAL%20ACTIVITY%20GRAPH" />
 </div>
 
 <details align="center">
@@ -133,9 +133,9 @@
   ### 🌌 Multiverse Activity Streams
   
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhao-wq&theme=dracula&hide_border=true&area=true&custom_title=🧛%20DRACULA%20DIMENSION"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhao-wq&theme=github-compact&hide_border=true&custom_title=⚫%20VOID%20MATRIX"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhao-wq&bg_color=1a1b27&color=7982a9&line=a9b1d6&point=ff9e64&area=true&hide_border=true&custom_title=🌟%20STARFIELD%20NEURAL%20MAP"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhao01&theme=dracula&hide_border=true&area=true&custom_title=🧛%20DRACULA%20DIMENSION"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhao01&theme=github-compact&hide_border=true&custom_title=⚫%20VOID%20MATRIX"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhao01&bg_color=1a1b27&color=7982a9&line=a9b1d6&point=ff9e64&area=true&hide_border=true&custom_title=🌟%20STARFIELD%20NEURAL%20MAP"/>
   </div>
 </details>
 
@@ -168,25 +168,25 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/tranhao-wq/AI-machine-and-deep-learning-with-new-materials">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao-wq&repo=AI-machine-and-deep-learning-with-new-materials&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      <a href="https://github.com/tranhao01/AI-machine-and-deep-learning-with-new-materials">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao01&repo=AI-machine-and-deep-learning-with-new-materials&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/tranhao-wq/AI-Research-Application">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao-wq&repo=AI-Research-Application&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      <a href="https://github.com/tranhao01/AI-Research-Application">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao01&repo=AI-Research-Application&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/tranhao-wq/Sales-Data-Analysis-and-Visualization">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao-wq&repo=Sales-Data-Analysis-and-Visualization&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      <a href="https://github.com/tranhao01/Sales-Data-Analysis-and-Visualization">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao01&repo=Sales-Data-Analysis-and-Visualization&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/tranhao-wq/AIFaceDetectionProject">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao-wq&repo=AIFaceDetectionProject&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      <a href="https://github.com/tranhao01/AIFaceDetectionProject">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao01&repo=AIFaceDetectionProject&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
       </a>
     </td>
   </tr>
@@ -207,25 +207,25 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/tranhao-wq/All-in-python-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao-wq&repo=All-in-python-project&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      <a href="https://github.com/tranhao01/All-in-python-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao01&repo=All-in-python-project&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/tranhao-wq/PDF-Word-Translation-Tools-Over-500-Pages">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao-wq&repo=PDF-Word-Translation-Tools-Over-500-Pages&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      <a href="https://github.com/tranhao01/PDF-Word-Translation-Tools-Over-500-Pages">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao01&repo=PDF-Word-Translation-Tools-Over-500-Pages&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/tranhao-wq/Pro-snake-game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao-wq&repo=Pro-snake-game&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      <a href="https://github.com/tranhao01/Pro-snake-game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao01&repo=Pro-snake-game&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/tranhao-wq/Fetch-weather-webapp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao-wq&repo=Fetch-weather-webapp&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      <a href="https://github.com/tranhao01/Fetch-weather-webapp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao01&repo=Fetch-weather-webapp&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
       </a>
     </td>
   </tr>
@@ -246,13 +246,13 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/tranhao-wq/Hill-Cipher-Implementation-in-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao-wq&repo=Hill-Cipher-Implementation-in-Python&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      <a href="https://github.com/tranhao01/Hill-Cipher-Implementation-in-Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao01&repo=Hill-Cipher-Implementation-in-Python&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/tranhao-wq/3D-Square-Animation-with-Matplotlib">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao-wq&repo=3D-Square-Animation-with-Matplotlib&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+      <a href="https://github.com/tranhao01/3D-Square-Animation-with-Matplotlib">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao01&repo=3D-Square-Animation-with-Matplotlib&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
       </a>
     </td>
   </tr>
@@ -272,13 +272,13 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/tranhao-wq/My-skyline-models">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao-wq&repo=My-skyline-models&theme=tokyonight&hide_border=true&show_owner=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+        <a href="https://github.com/tranhao01/My-skyline-models">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao01&repo=My-skyline-models&theme=tokyonight&hide_border=true&show_owner=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/tranhao-wq/tranhao-wq">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao-wq&repo=tranhao-wq&theme=tokyonight&hide_border=true&show_owner=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+        <a href="https://github.com/tranhao01/tranhao01">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranhao01&repo=tranhao01&theme=tokyonight&hide_border=true&show_owner=true&title_color=00f5ff&icon_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
         </a>
       </td>
     </tr>
@@ -297,14 +297,14 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=tranhao-wq&theme=onedark" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tranhao01&theme=onedark" alt="Trophies" />
 
 </div>
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tranhao-wq&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Followers,Stars,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tranhao01&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Followers,Stars,Reviews" />
 </div>
 
 <div align="center">
@@ -340,10 +340,10 @@
 
 | 🎯 **NEURAL DESCRIPTION** | 🌌 **QUANTUM 3D PORTAL** |
 | :--- | :--- |
-| **🔥 tranhao-wq (Neural Timeline 2020-2025)** | [🚀 **LAUNCH 3D MATRIX**](https://github.com/tranhao-wq/My-skyline-models/blob/main/tranhao-wq-2020-25-github-skyline.stl) |
-| **⚡ tranhao-wq (Quantum Era 2023-2025)** | [🌟 **ENTER 3D REALM**](https://github.com/tranhao-wq/My-skyline-models/blob/main/tranhao-wq-2023-25-github-skyline.stl) |
-| **💎 tranhao-wq (Current Reality 2025)** | [🔮 **ACCESS 3D CORE**](https://github.com/tranhao-wq/My-skyline-models/blob/main/tranhao-wq-2025-github-skyline.stl) |
-| **🌈 TranTheHao (Present Dimension 2025)** | [🎆 **OPEN 3D NEXUS**](https://github.com/tranhao-wq/My-skyline-models/blob/main/TranTheHao-2025-github-skyline.stl) |
+| **🔥 tranhao01 (Neural Timeline 2020-2025)** | [🚀 **LAUNCH 3D MATRIX**](https://github.com/tranhao01/My-skyline-models/blob/main/tranhao01-2020-25-github-skyline.stl) |
+| **⚡ tranhao01 (Quantum Era 2023-2025)** | [🌟 **ENTER 3D REALM**](https://github.com/tranhao01/My-skyline-models/blob/main/tranhao01-2023-25-github-skyline.stl) |
+| **💎 tranhao01 (Current Reality 2025)** | [🔮 **ACCESS 3D CORE**](https://github.com/tranhao01/My-skyline-models/blob/main/tranhao01-2025-github-skyline.stl) |
+| **🌈 TranTheHao (Present Dimension 2025)** | [🎆 **OPEN 3D NEXUS**](https://github.com/tranhao01/My-skyline-models/blob/main/TranTheHao-2025-github-skyline.stl) |
 
 ---
 
