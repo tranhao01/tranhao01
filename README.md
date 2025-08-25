@@ -437,3 +437,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=fadeIn" />
 </div>
+<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/aeb989e7-cebc-4df2-82a1-acbc767b7896" />
+<img width="800" height="458" alt="image" src="https://github.com/user-attachments/assets/7f27b2bf-9fe0-4193-a32b-e1d379fa5bb5" />
+
