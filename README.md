@@ -429,6 +429,9 @@
 <div align="center">
 
 ### 🎭 *"The future belongs to those who code it into existence"* 🎭
+# 🎓 Certificate
+
+![Certificate of Appreciation](./Screenshot_2025-08-26-00-56-34-063_com.linkedin.android-edit.jpg)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+Neural+Matrix;May+your+code+compile+without+errors;Keep+innovating+%26+stay+curious;The+revolution+starts+with+a+single+commit" alt="Farewell Message" />
 
