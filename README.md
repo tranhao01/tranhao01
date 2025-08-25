@@ -1,4 +1,3 @@
-
 [![TranTheHao-official](TranTheHao.svg)](svg/TranTheHao.svg)
 
 <div align="center">
@@ -11,7 +10,7 @@
 █   ║                    👋 GREETINGS, I'M TRAN THE HAO                   ║   █
 █   ║                                                                      ║   █
 █   ║         🔮 Information Technology Student & Developer 🔮             ║   █
-█   ║      Passionate about coding, learning, and building the future      ║   █
+│   ║      Passionate about coding, learning, and building the future      ║   █
 █   ╚══════════════════════════════════════════════════════════════════════╝   █
 █                                                                              █
 ████████████████████████████████████████████████████████████████████████████████
@@ -55,7 +54,7 @@
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tranhao01&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=ff6b35&point=ffffff&area=true&hide_border=true&custom_title=🚀%20QUANTUM%20CONTRIBUTION%20MATRIX" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhao01&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=ff6b35&point=ffffff&area=true&hide_border=true&custom_title=🚀%20QUANTUM%20CONTRIBUTION%20MATRIX" />
 </div>
 
 <details align="center">
@@ -293,14 +292,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🏆+Trophy+Scanner+Active;💎+Achievement+Unlocked;🌟+Legend+Status%3A+CONFIRMED;⚡+Power+Level%3A+MAXIMUM" alt="Trophy Loading" />
 
-<h1 align="center">🏆 My GitHub Trophies</h1>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=tranhao01&theme=onedark" alt="Trophies" />
-
-</div>
-
 </div>
 
 <div align="center">
@@ -325,10 +316,10 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=🌃%20NEURAL%20SKYLINE%20🌃&fontSize=30&fontColor=ffffff&animation=blinking" />
 </div>
 
-![image](https://github.com/user-attachments/assets/b640fbb7-44f5-4bd2-b4aa-cf5086e45e06)
-![image](https://github.com/user-attachments/assets/ee045555-0099-4ba8-a301-95fb854562c4)
-![image](https://github.com/user-attachments/assets/42c3a7f2-9a7b-4d9c-b6c6-516c957d947e)
-![image](https://github.com/user-attachments/assets/8c81a283-d932-48da-a755-07502494250d)
+![Skyline 1](https://github.com/user-attachments/assets/b640fbb7-44f5-4bd2-b4aa-cf5086e45e06)
+![Skyline 2](https://github.com/user-attachments/assets/ee045555-0099-4ba8-a301-95fb854562c4)
+![Skyline 3](https://github.com/user-attachments/assets/42c3a7f2-9a7b-4d9c-b6c6-516c957d947e)
+![Skyline 4](https://github.com/user-attachments/assets/8c81a283-d932-48da-a755-07502494250d)
 
 <div align="center">
 
@@ -417,7 +408,32 @@
 
 ![CapCut](https://img.shields.io/badge/CapCut-✂️%20EDITING-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
-![image](https://github.com/user-attachments/assets/e3a559e9-3319-4099-83c0-0fda0293df1c)
-![image](https://github.com/user-attachments/assets/62834138-918e-4da5-8fbb-7e2a49e867bc)
+</div>
 
+---
 
+<div align="center">
+
+# 🌟 NEURAL CONTACT NEXUS 🌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=📡+Neural+Networks+Online;🌐+Quantum+Communication+Active;⚡+Ready+for+Connection;🚀+Let's+Build+the+Future" alt="Contact Loading" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=🚀%20READY%20TO%20CONNECT%20🚀&fontSize=30&fontAlignY=65&animation=twinkling" />
+</div>
+
+---
+
+<div align="center">
+
+### 🎭 *"The future belongs to those who code it into existence"* 🎭
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+Neural+Matrix;May+your+code+compile+without+errors;Keep+innovating+%26+stay+curious;The+revolution+starts+with+a+single+commit" alt="Farewell Message" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=fadeIn" />
+</div>
