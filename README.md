@@ -443,3 +443,15 @@
 <img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/aeb989e7-cebc-4df2-82a1-acbc767b7896" />
 <img width="800" height="458" alt="image" src="https://github.com/user-attachments/assets/7f27b2bf-9fe0-4193-a32b-e1d379fa5bb5" />
 
+# UTH x VinFast Collaboration
+
+![UTH x VinFast](a0741916-e883-4ca1-94e0-5fe0cf142b9c.png)
+
+The **University of Transport Ho Chi Minh City (UTH)** partners with **VinFast** to strengthen research, training, and innovation in smart mobility and transportation technology.  
+
+This collaboration aims to:
+- Provide students with opportunities for practical internships.  
+- Develop industry projects that bridge academic knowledge and real-world applications.  
+- Support career development in the automotive and electric vehicle sector.  
+
+---------------
